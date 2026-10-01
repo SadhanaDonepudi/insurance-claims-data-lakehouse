@@ -1,0 +1,6 @@
+pandas
+numpy
+pyarrow
+pyiceberg[sql-sqlite,pyiceberg-core]
+duckdb
+pytest

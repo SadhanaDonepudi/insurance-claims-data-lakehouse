@@ -1,0 +1,101 @@
+claim_id,policy_id,loss_date,report_date,line_of_business,claim_status,paid_loss,reserved_loss,claimant_name,claimant_ssn,claimant_email,cause_of_loss
+CLM-00000001,POL-0000104,2022-11-30,2023-01-24,Personal Auto,Closed,1062.4,275.1,Mary Lee,952-52-4342,mary.lee@test.example.net,Other
+CLM-00000002,POL-0000065,2024-01-20,2024-03-07,Personal Auto,Closed,2265.9,61.69,Mark Jackson,924-40-6464,mark.jackson@mail.example.org,Water Damage
+CLM-00000003,POL-0000067,2022-02-09,2022-02-15,Workers Compensation,Open,1809.47,710.98,Donald Gonzalez,978-80-4442,donald.gonzalez@test.example.net,Equipment Breakdown
+CLM-00000004,POL-0000047,2019-05-04,2019-06-03,Homeowners,Closed,1710.36,163.09,Richard Perez,908-31-9627,richard.perez@test.example.net,Collision
+CLM-00000005,POL-0000039,2023-06-21,2023-07-20,Commercial Property,Closed,1508.93,210.06,Margaret Harris,957-36-5984,margaret.harris@test.example.net,Wind/Hail
+CLM-00000006,POL-0000139,2019-02-26,2019-04-14,Personal Auto,Closed,5724.28,1412.45,Mark Smith,986-24-5583,mark.smith@mail.example.org,Other
+CLM-00000007,POL-0000094,2021-02-21,2021-03-28,Commercial Property,Open,5480.13,1151.95,Betty Robinson,905-81-5186,betty.robinson@test.example.net,Fire
+CLM-00000008,POL-0000124,2025-07-02,2025-08-16,Commercial Liability,Open,7560.76,709.66,Karen Garcia,918-42-1810,karen.garcia@example.com,Fire
+CLM-00000009,POL-0000168,2022-08-07,2022-09-11,Personal Auto,Open,21672.13,3786.33,Thomas Lewis,984-22-5679,thomas.lewis@test.example.net,Equipment Breakdown
+CLM-00000010,POL-0000094,2023-07-20,2023-08-12,Homeowners,Closed,3616.82,1145.86,Daniel Sanchez,965-46-2431,daniel.sanchez@example.com,Wind/Hail
+CLM-00000011,POL-0000193,2026-06-22,2026-07-10,Homeowners,Closed,4995.02,974.52,Michael Wilson,999-11-2158,michael.wilson@mail.example.org,Liability - Property Damage
+CLM-00000012,POL-0000057,2020-09-27,2020-12-12,Personal Auto,Closed,3640.69,675.18,Richard Sanchez,961-43-1063,richard.sanchez@mail.example.org,Fire
+CLM-00000013,POL-0000099,2025-07-22,2025-09-13,Commercial Property,Closed,505.98,190.23,Mary Johnson,987-20-3153,mary.johnson@mail.example.org,Slip and Fall
+CLM-00000014,POL-0000061,2024-10-27,2024-12-02,Commercial Property,Closed,930.93,129.19,Lisa Taylor,934-21-3779,lisa.taylor@test.example.net,Equipment Breakdown
+CLM-00000015,POL-0000097,2021-12-11,2021-12-31,Commercial Liability,Closed,5002.92,1289.32,Mark Brown,944-40-5520,mark.brown@test.example.net,Equipment Breakdown
+CLM-00000016,POL-0000158,2021-01-15,2021-02-02,Personal Auto,Closed,1842.99,322.3,Michael Rodriguez,907-84-5266,michael.rodriguez@test.example.net,Slip and Fall
+CLM-00000017,POL-0000028,2021-02-13,2021-04-12,Umbrella,Open,2824.17,602.15,Robert Martin,967-33-2700,robert.martin@mail.example.org,Equipment Breakdown
+CLM-00000018,POL-0000120,2022-04-03,2022-05-23,Commercial Property,Closed,623.39,11.57,Charles Ramirez,999-95-4160,charles.ramirez@example.com,Liability - Property Damage
+CLM-00000019,POL-0000023,2023-12-14,2024-01-08,Workers Compensation,Closed,4098.65,1218.02,Jessica Lee,902-51-3139,jessica.lee@mail.example.org,Other
+CLM-00000020,POL-0000060,2022-06-29,2022-08-20,Personal Auto,Closed,2155.2,26.15,James Martin,900-39-7642,james.martin@example.com,Water Damage
+CLM-00000021,POL-0000123,2020-02-21,2020-03-30,Personal Auto,Closed,3667.45,68.39,Mark White,909-81-4978,mark.white@mail.example.org,Liability - Bodily Injury
+CLM-00000022,POL-0000070,2026-05-26,2026-07-19,Commercial Property,Open,3689.57,467.31,William Martinez,971-45-2281,william.martinez@mail.example.org,Water Damage
+CLM-00000023,POL-0000033,2022-01-05,2022-02-27,Personal Auto,Closed,499.79,163.32,William Thompson,919-95-9039,william.thompson@mail.example.org,Collision
+CLM-00000024,POL-0000038,2025-11-28,2026-01-31,Commercial Liability,Closed,10037.37,2869.58,Jennifer Sanchez,941-41-5604,jennifer.sanchez@mail.example.org,Equipment Breakdown
+CLM-00000025,POL-0000183,2020-06-19,2020-09-02,Personal Auto,Open,741.74,25.93,Barbara Harris,988-34-5130,barbara.harris@test.example.net,Liability - Bodily Injury
+CLM-00000026,POL-0000059,2021-02-27,2021-04-05,Workers Compensation,Open,2148.8,117.82,Margaret Rodriguez,965-80-8286,margaret.rodriguez@mail.example.org,Water Damage
+CLM-00000027,POL-0000137,2025-01-06,2025-03-25,Homeowners,Open,1795.71,41.92,Linda Martin,958-36-8815,linda.martin@example.com,Fire
+CLM-00000028,POL-0000058,2021-02-26,2021-03-14,Commercial Liability,Closed,9297.95,17.27,Betty Brown,954-94-4974,betty.brown@mail.example.org,Other
+CLM-00000029,POL-0000142,2025-12-06,2026-01-14,Personal Auto,Closed,3364.48,141.18,Mark Thompson,948-23-3294,mark.thompson@mail.example.org,Liability - Property Damage
+CLM-00000030,POL-0000105,2022-04-08,2022-06-30,Commercial Liability,Closed,8608.78,572.12,Jessica Martin,977-37-5481,jessica.martin@test.example.net,Slip and Fall
+CLM-00000031,POL-0000029,2022-07-16,2022-09-29,Personal Auto,Closed,3739.7,813.99,Charles Gonzalez,918-85-1060,charles.gonzalez@test.example.net,Other
+CLM-00000032,POL-0000161,2019-01-12,2019-03-11,Homeowners,Closed,2910.85,312.02,Thomas Martin,900-84-9598,thomas.martin@test.example.net,Theft
+CLM-00000033,POL-0000047,2022-04-10,2022-06-15,Homeowners,Closed,1231.12,365.92,David Sanchez,938-81-4375,david.sanchez@example.com,Water Damage
+CLM-00000034,POL-0000191,2021-05-23,2021-06-03,Workers Compensation,Closed,1780.25,352.7,Sandra Thompson,936-30-5102,sandra.thompson@example.com,Liability - Bodily Injury
+CLM-00000035,POL-0000088,2023-03-30,2023-06-11,Commercial Property,Closed,3114.45,304.06,James Gonzalez,994-66-5109,james.gonzalez@example.com,Wind/Hail
+CLM-00000036,POL-0000155,2026-05-16,2026-06-03,Personal Auto,Closed,3967.4,1131.97,James Harris,904-41-5568,james.harris@example.com,Collision
+CLM-00000037,POL-0000063,2019-02-09,2019-02-21,Homeowners,Closed,1474.07,85.0,Susan Lee,931-17-7867,susan.lee@mail.example.org,Wind/Hail
+CLM-00000038,POL-0000091,2025-06-29,2025-08-04,Homeowners,Open,14070.19,4363.29,Susan Jackson,930-35-9936,susan.jackson@mail.example.org,Liability - Property Damage
+CLM-00000039,POL-0000138,2022-02-04,2022-04-27,Personal Auto,Closed,4167.07,160.0,James Wilson,937-48-6335,james.wilson@test.example.net,Equipment Breakdown
+CLM-00000040,POL-0000029,2023-02-22,2023-04-17,Personal Auto,Closed,882.77,217.51,Mark Brown,991-17-4669,mark.brown@test.example.net,Equipment Breakdown
+CLM-00000041,POL-0000093,2022-08-22,2022-09-17,Homeowners,Closed,15356.33,2478.77,Betty Williams,940-68-5127,betty.williams@mail.example.org,Liability - Property Damage
+CLM-00000042,POL-0000160,2022-10-05,2023-01-01,Homeowners,Closed,468.63,16.9,Mark Lewis,991-37-4389,mark.lewis@example.com,Liability - Property Damage
+CLM-00000043,POL-0000172,2025-05-22,2025-08-14,Personal Auto,Closed,4617.75,409.72,Margaret Ramirez,905-31-9082,margaret.ramirez@example.com,Other
+CLM-00000044,POL-0000007,2026-04-27,2026-05-18,Commercial Property,Open,1643.78,553.84,David Lopez,948-60-4374,david.lopez@mail.example.org,Liability - Property Damage
+CLM-00000045,POL-0000014,2026-09-01,2026-11-01,Personal Auto,Closed,16886.63,4206.58,Sandra Garcia,973-72-9825,sandra.garcia@mail.example.org,Other
+CLM-00000046,POL-0000005,2023-08-06,2023-10-08,Personal Auto,Open,7497.85,45.37,Nancy Robinson,946-10-4410,nancy.robinson@test.example.net,Collision
+CLM-00000047,POL-0000091,2024-06-03,2024-08-06,Workers Compensation,Closed,829.92,1.16,Jessica Lopez,991-78-2831,jessica.lopez@test.example.net,Water Damage
+CLM-00000048,POL-0000070,2026-04-21,2026-07-13,Homeowners,Closed,9042.6,3056.44,Karen Gonzalez,998-32-7434,karen.gonzalez@test.example.net,Wind/Hail
+CLM-00000049,POL-0000163,2026-03-23,2026-05-01,Commercial Property,Closed,324.94,3.87,Thomas Thompson,946-33-9582,thomas.thompson@mail.example.org,Other
+CLM-00000050,POL-0000129,2026-09-24,2026-10-28,Workers Compensation,Closed,7496.53,1923.13,Sarah Miller,937-18-1550,sarah.miller@test.example.net,Fire
+CLM-00000051,POL-0000024,2019-05-13,2019-05-26,Commercial Liability,Closed,2845.87,339.47,Matthew Smith,936-72-6515,matthew.smith@mail.example.org,Equipment Breakdown
+CLM-00000052,POL-0000126,2019-04-06,2019-06-08,Personal Auto,Closed,1099.23,237.5,Susan Smith,936-34-4123,susan.smith@example.com,Theft
+CLM-00000053,POL-0000049,2023-07-01,2023-08-30,Commercial Property,Closed,8809.35,901.92,Mark Thompson,934-87-3585,mark.thompson@test.example.net,Liability - Property Damage
+CLM-00000054,POL-0000119,2019-12-02,2019-12-16,Commercial Property,Open,7025.01,492.34,Michael Robinson,980-14-2476,michael.robinson@test.example.net,Water Damage
+CLM-00000055,POL-0000125,2025-09-09,2025-11-29,Umbrella,Open,3703.09,282.23,Robert Lee,925-72-9510,robert.lee@test.example.net,Equipment Breakdown
+CLM-00000056,POL-0000049,2024-11-23,2024-12-30,Personal Auto,Closed,4102.83,294.21,Nancy Rodriguez,952-42-1292,nancy.rodriguez@test.example.net,Theft
+CLM-00000057,POL-0000014,2019-12-24,2020-01-04,Homeowners,Closed,4667.79,1595.61,Sandra Lee,934-42-4726,sandra.lee@test.example.net,Other
+CLM-00000058,POL-0000146,2019-12-23,2020-01-18,Umbrella,Closed,2028.64,185.19,Thomas Robinson,910-14-9998,thomas.robinson@test.example.net,Wind/Hail
+CLM-00000059,POL-0000003,2019-10-26,2019-11-21,Homeowners,Closed,5547.47,770.86,Karen Garcia,925-47-7296,karen.garcia@example.com,Fire
+CLM-00000060,POL-0000041,2021-08-25,2021-09-27,Umbrella,Closed,386.2,134.53,James Smith,940-26-9707,james.smith@example.com,Fire
+CLM-00000061,POL-0000093,2025-07-18,2025-08-22,Commercial Liability,Closed,72.52,26.2,Nancy Hernandez,988-71-9046,nancy.hernandez@test.example.net,Theft
+CLM-00000062,POL-0000107,2021-04-28,2021-05-23,Homeowners,Open,4986.07,549.81,Daniel Martinez,908-60-2969,daniel.martinez@mail.example.org,Equipment Breakdown
+CLM-00000063,POL-0000158,2024-06-15,2024-08-23,Umbrella,Open,4589.01,219.18,Thomas Williams,974-64-2953,thomas.williams@test.example.net,Liability - Bodily Injury
+CLM-00000064,POL-0000170,2023-04-08,2023-06-17,Commercial Property,Closed,1435.05,514.17,Jennifer Lee,950-37-5779,jennifer.lee@mail.example.org,Liability - Property Damage
+CLM-00000065,POL-0000073,2023-09-03,2023-10-18,Personal Auto,Open,911.45,114.0,Betty Robinson,976-55-5203,betty.robinson@test.example.net,Slip and Fall
+CLM-00000066,POL-0000064,2019-05-24,2019-07-13,Workers Compensation,Closed,12771.53,3614.55,Barbara Taylor,902-70-7944,barbara.taylor@mail.example.org,Other
+CLM-00000067,POL-0000169,2024-03-28,2024-05-23,Homeowners,Closed,1698.02,504.8,Barbara Lopez,920-67-3001,barbara.lopez@test.example.net,Other
+CLM-00000068,POL-0000081,2022-06-29,2022-09-08,Commercial Property,Open,1536.52,31.44,John Jones,941-76-6780,john.jones@test.example.net,Equipment Breakdown
+CLM-00000069,POL-0000039,2020-01-31,2020-02-08,Commercial Property,Open,1028.91,36.63,William Clark,988-18-4488,william.clark@mail.example.org,Liability - Bodily Injury
+CLM-00000070,POL-0000085,2023-04-21,2023-05-24,Commercial Liability,Closed,7182.48,2866.41,Anthony Gonzalez,911-55-3692,anthony.gonzalez@example.com,Fire
+CLM-00000071,POL-0000101,2023-09-21,2023-09-29,Commercial Liability,Closed,262.08,96.7,James Jones,981-84-9260,james.jones@test.example.net,Equipment Breakdown
+CLM-00000072,POL-0000175,2019-12-04,2020-01-02,Umbrella,Closed,2422.95,905.77,David Lopez,900-11-9849,david.lopez@test.example.net,Collision
+CLM-00000073,POL-0000088,2022-11-16,2023-01-12,Commercial Liability,Closed,1358.03,301.87,Donald Jackson,986-75-6632,donald.jackson@mail.example.org,Wind/Hail
+CLM-00000074,POL-0000029,2021-08-23,2021-09-21,Umbrella,Closed,2544.98,501.04,David Johnson,970-32-4104,david.johnson@example.com,Fire
+CLM-00000075,POL-0000196,2024-10-29,2024-12-22,Personal Auto,Closed,6219.77,101.67,Patricia Perez,914-37-7506,patricia.perez@example.com,Liability - Property Damage
+CLM-00000076,POL-0000023,2022-11-28,2022-12-19,Commercial Liability,Closed,1745.46,65.42,John Thomas,918-64-4926,john.thomas@example.com,Theft
+CLM-00000077,POL-0000200,2019-04-05,2019-04-15,Umbrella,Closed,2200.53,53.19,Donald Miller,961-65-8975,donald.miller@mail.example.org,Fire
+CLM-00000078,POL-0000066,2021-05-09,2021-07-11,Homeowners,Closed,381.35,7.36,Joseph Smith,916-84-4488,joseph.smith@mail.example.org,Liability - Property Damage
+CLM-00000079,POL-0000100,2023-05-13,2023-08-05,Homeowners,Open,1631.2,70.24,Sarah Sanchez,966-62-1128,sarah.sanchez@mail.example.org,Slip and Fall
+CLM-00000080,POL-0000128,2022-03-28,2022-06-15,Personal Auto,Closed,932.65,70.65,Michael Brown,907-79-8040,michael.brown@mail.example.org,Liability - Property Damage
+CLM-00000081,POL-0000174,2021-01-25,2021-01-27,Personal Auto,Closed,3842.98,1218.86,Mary Lopez,940-41-6073,mary.lopez@mail.example.org,Equipment Breakdown
+CLM-00000082,POL-0000187,2022-03-18,2022-04-03,Personal Auto,Open,2299.63,385.58,Karen Lopez,976-12-7337,karen.lopez@test.example.net,Other
+CLM-00000083,POL-0000176,2021-07-16,2021-09-06,Commercial Liability,Closed,1834.99,473.48,Donald Wilson,963-73-2065,donald.wilson@example.com,Collision
+CLM-00000084,POL-0000065,2019-09-21,2019-09-24,Commercial Liability,Closed,3539.53,1094.44,Susan Miller,954-86-6073,susan.miller@mail.example.org,Fire
+CLM-00000085,POL-0000084,2024-05-25,2024-07-10,Personal Auto,Open,1107.27,223.6,Daniel Perez,978-14-1186,daniel.perez@test.example.net,Equipment Breakdown
+CLM-00000086,POL-0000097,2023-07-22,2023-07-27,Workers Compensation,Closed,854.67,103.02,Sarah Harris,975-68-3226,sarah.harris@test.example.net,Fire
+CLM-00000087,POL-0000173,2023-02-09,2023-04-28,Umbrella,Closed,172.25,4.11,Mary Lewis,970-54-9346,mary.lewis@mail.example.org,Other
+CLM-00000088,POL-0000091,2019-07-29,2019-08-01,Umbrella,Closed,2738.96,743.23,Donald Davis,920-96-6186,donald.davis@mail.example.org,Collision
+CLM-00000089,POL-0000125,2024-03-09,2024-05-08,Commercial Property,Closed,2953.26,980.65,Charles Garcia,945-42-7085,charles.garcia@mail.example.org,Equipment Breakdown
+CLM-00000090,POL-0000101,2023-07-01,2023-08-14,Workers Compensation,Closed,2779.94,99.93,Daniel Robinson,905-76-9696,daniel.robinson@test.example.net,Theft
+CLM-00000091,POL-0000057,2025-03-30,2025-05-17,Commercial Property,Open,1556.86,355.84,Thomas Wilson,973-70-1758,thomas.wilson@example.com,Liability - Property Damage
+CLM-00000092,POL-0000044,2019-08-23,2019-10-31,Commercial Liability,Closed,9312.27,1356.51,Thomas Clark,965-32-8218,thomas.clark@test.example.net,Liability - Bodily Injury
+CLM-00000093,POL-0000019,2021-07-06,2021-08-14,Personal Auto,Open,1296.35,494.24,Elizabeth Thompson,970-59-6286,elizabeth.thompson@mail.example.org,Other
+CLM-00000094,POL-0000028,2023-03-06,2023-04-05,Umbrella,Closed,20999.39,4217.14,Anthony Hernandez,965-39-9564,anthony.hernandez@mail.example.org,Fire
+CLM-00000095,POL-0000040,2020-01-09,2020-02-09,Personal Auto,Closed,2146.86,732.82,Nancy Lewis,956-73-5175,nancy.lewis@mail.example.org,Theft
+CLM-00000096,POL-0000069,2025-08-03,2025-09-08,Workers Compensation,Open,1190.42,157.76,Robert Robinson,942-84-2222,robert.robinson@test.example.net,Slip and Fall
+CLM-00000097,POL-0000091,2020-11-25,2020-12-20,Personal Auto,Closed,1903.11,704.07,Susan Moore,976-68-6267,susan.moore@example.com,Collision
+CLM-00000098,POL-0000031,2021-03-28,2021-06-16,Commercial Liability,Closed,2703.55,957.95,David Lee,904-99-9668,david.lee@test.example.net,Slip and Fall
+CLM-00000099,POL-0000151,2022-01-05,2022-03-07,Personal Auto,Closed,4449.95,1663.81,Susan Johnson,995-77-7677,susan.johnson@example.com,Other
+CLM-00000100,POL-0000074,2019-08-23,2019-11-13,Homeowners,Closed,23042.9,3025.63,Sandra Smith,983-81-1035,sandra.smith@example.com,Other

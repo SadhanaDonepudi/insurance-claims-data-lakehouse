@@ -1,0 +1,8 @@
+# Generated data is never committed (synthetic, regenerable via src/generator.py)
+data/
+!sample/
+*.parquet
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
